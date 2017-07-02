@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/luan/Documents/nativescript-github/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/icon.png",
+        "source": "/home/luan/Documents/nativescript-github/platforms/android/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/home/luan/Documents/nativescript-github/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/logo.png",
+        "source": "/home/luan/Documents/nativescript-github/platforms/android/src/main/res/drawable-mdpi/logo.png"
+    },
+    {
+        "merged": "/home/luan/Documents/nativescript-github/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/background.png",
+        "source": "/home/luan/Documents/nativescript-github/platforms/android/src/main/res/drawable-mdpi/background.png"
+    }
+]
